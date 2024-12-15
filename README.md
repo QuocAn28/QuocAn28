@@ -41,12 +41,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/QuocAn28/QuocAn28/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/QuocAn28/count.svg?"  />
 </div>
